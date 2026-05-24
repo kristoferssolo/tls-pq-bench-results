@@ -1,0 +1,2 @@
+results/**/*.jsonl.gz filter=lfs diff=lfs merge=lfs -text
+results/**/*.meta.gz filter=lfs diff=lfs merge=lfs -text
